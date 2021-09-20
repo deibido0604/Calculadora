@@ -24,7 +24,22 @@ namespace Calculadoras
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HOLA MNDO");
+            MessageBox.Show("HOLA MUNDO");
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
